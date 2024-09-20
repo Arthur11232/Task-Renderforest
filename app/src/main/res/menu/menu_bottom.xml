@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/users"
+        android:title="@string/users" />
+    <item
+        android:icon="@mipmap/ic_launcher"
+        android:id="@+id/favorites"
+        android:title="@string/saved_users" />
+</menu>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">User Info</string>
+    <string name="saved_users">Saved Users</string>
+    <string name="users">Users</string>
 </resources>
